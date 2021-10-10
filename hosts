@@ -1,0 +1,7 @@
+[wordpress]
+child-1   ansible_connection=ssh        ansible_user=root
+child-2   ansible_connection=ssh        ansible_user=root
+
+
+
+
